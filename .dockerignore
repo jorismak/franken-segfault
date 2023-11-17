@@ -1,0 +1,10 @@
+var/cache/
+.env.local*
+.php-cs-fixer.cache
+.php-version
+.phpunit.result.cache
+docker-compose.override.yml
+docker-compose.yml
+build-container.sh
+start-container.sh
+Dockerfile
