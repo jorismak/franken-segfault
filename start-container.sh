@@ -15,5 +15,4 @@ exec docker run \
     -p $LOCAL_HTTPPORT:80 \
     -p $LOCAL_HTTPSPORT:443 \
     --name franken-segfault \
-    --network mybridge \
     franken-segfault:latest
